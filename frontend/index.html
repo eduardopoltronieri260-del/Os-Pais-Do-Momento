@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nossos Pais</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+
+    <h1>Os Pais Do Momento! 👑</h1>
+
+    <p>
+        Entraram pro livro dos recordes!
+    </p>
+
+    <div class="status">
+
+        🔥 1 Pai cadastrado
+
+    </div>
+
+    </header>
+
+    <main>
+
+        <input
+            type="text"
+            id="pesquisa"
+            placeholder="🔍 Pesquisar um pai..."
+        >
+
+        <div id="lista-destaques"></div>
+
+        <div id="lista-pais"></div>
+
+    </main>
+
+    <!-- MODAL DE PERFIL -->
+    <div id="modal-perfil" class="modal">
+
+        <div class="modal-caixa">
+
+            <button class="modal-fechar" onclick="fecharPerfil()">✕</button>
+
+            <img id="modal-img" src="" alt="">
+
+            <div class="modal-conteudo">
+
+                <h2 id="modal-nome"></h2>
+
+                <p class="nivel" id="modal-nivel"></p>
+
+                <div class="estrelas" id="modal-estrelas"></div>
+
+                <h3>📖 História</h3>
+                <p id="modal-historia"></p>
+
+                <h3>🎉 Primeira vez chamado de "pai"</h3>
+                <p id="modal-primeira-vez"></p>
+
+                <button id="btn-abrir-chat" onclick="toggleChat()">💬 Conversar</button>
+
+                <!-- CHAT -->
+                <div id="chat-container" class="chat-container">
+
+                    <div id="chat-mensagens" class="chat-mensagens"></div>
+
+                    <div class="chat-entrada">
+
+                        <input
+                            type="text"
+                            id="chat-input"
+                            placeholder="Digite uma mensagem..."
+                        >
+
+                        <button id="chat-enviar" onclick="enviarMensagem()">Enviar</button>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
