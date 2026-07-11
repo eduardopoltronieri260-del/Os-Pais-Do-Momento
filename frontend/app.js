@@ -4,7 +4,7 @@ const pais = [
         descricao: "O primeiro pai registrado.",
         estrelas: "⭐⭐⭐⭐⭐",
         nivel: "Pai Supremo",
-        imagem: "assets/imagens/STRO.jpeg",
+        imagem: "./assets/imagens/STRO.jpeg",
         historia: "Aqui vai a história completa de por que esse cara ganhou o apelido de pai. Pode escrever quantos parágrafos quiser, esse campo aparece só dentro do perfil, não no card pequeno.",
         primeiraVez: "Foi chamado de 'pai' pela primeira vez em uma call no Discord, depois de dar um conselho totalmente sem noção.",
         personalidade: "Descreva aqui como o Strolover fala e age: gírias, jeito de responder, coisas que ele sempre fala, o tom (brincalhão, sério, exagerado, etc)."
@@ -14,7 +14,7 @@ const pais = [
         descricao: "O eterno bb ♱.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Pai Veterano",
-        imagem: "assets/imagens/GANLEY.jpeg",
+        imagem: "./assets/imagens/GANLEY.jpeg",
         historia: "Escreva aqui a história completa desse pai: o que ele fez, por que é engraçado, o contexto todo.",
         primeiraVez: "Descreva aqui o momento exato em que ele foi chamado de pai pela primeira vez.",
         personalidade: "Descreva aqui como o Ganley fala e age."
@@ -24,7 +24,7 @@ const pais = [
         descricao: "O eterno cabeludo ♱.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Pai Veterano",
-        imagem: "assets/imagens/OLIVER.jpeg",
+        imagem: "./assets/imagens/OLIVER.jpeg",
         historia: "Escreva aqui a história completa desse pai.",
         primeiraVez: "Descreva aqui o momento em que ele virou pai.",
         personalidade: "Descreva aqui como o Oliver Tree fala e age."
@@ -34,7 +34,7 @@ const pais = [
         descricao: "Pior patrão do século.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/TIAGO.jpeg",
+        imagem: "./assets/imagens/TIAGO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Thiago fala e age."
@@ -44,7 +44,7 @@ const pais = [
         descricao: "Rei da pracinha.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/PROCURANDO.jpeg",
+        imagem: "./assets/imagens/PROCURANDO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Gustavo fala e age."
@@ -54,7 +54,7 @@ const pais = [
         descricao: "Os derruba portão.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/MOTOLOVERS.jpeg",
+        imagem: "./assets/imagens/MOTOLOVERS.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o MotoLovers fala e age."
@@ -64,7 +64,7 @@ const pais = [
         descricao: "Baguio é doido garai.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/ZOIO.jpeg",
+        imagem: "./assets/imagens/ZOIO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Zoio fala e age."
@@ -74,7 +74,7 @@ const pais = [
         descricao: "O 9 dedo.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/LULA.jpeg",
+        imagem: "./assets/imagens/LULA.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Lula fala e age."
@@ -84,7 +84,7 @@ const pais = [
         descricao: "Me trancaru em casa.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/BLUEZAO.jpeg",
+        imagem: "./assets/imagens/BLUEZAO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Bluezão fala e age."
@@ -94,7 +94,7 @@ const pais = [
         descricao: "Pode pegar a bola.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/MARCAO.jpeg",
+        imagem: "./assets/imagens/MARCAO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui como o Marcão fala e age."
@@ -104,7 +104,7 @@ const pais = [
         descricao: "Erro.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/PROCURANDO.jpeg",
+        imagem: "./assets/imagens/PROCURANDO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui a personalidade."
@@ -114,7 +114,7 @@ const pais = [
         descricao: "Erro.",
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
-        imagem: "assets/imagens/PROCURANDO.jpeg",
+        imagem: "./assets/imagens/PROCURANDO.jpeg",
         historia: "História completa desse pai aqui.",
         primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
         personalidade: "Descreva aqui a personalidade."
