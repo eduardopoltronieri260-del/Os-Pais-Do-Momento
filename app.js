@@ -5,29 +5,29 @@ const pais = [
         estrelas: "⭐⭐⭐⭐⭐",
         nivel: "Pai Supremo",
         imagem: "./assets/imagens/STRO.jpeg",
-        historia: "Aqui vai a história completa de por que esse cara ganhou o apelido de pai. Pode escrever quantos parágrafos quiser, esse campo aparece só dentro do perfil, não no card pequeno.",
-        primeiraVez: "Foi chamado de 'pai' pela primeira vez em uma call no Discord, depois de dar um conselho totalmente sem noção.",
-        personalidade: "Descreva aqui como o Strolover fala e age: gírias, jeito de responder, coisas que ele sempre fala, o tom (brincalhão, sério, exagerado, etc)."
+        historia: "Ele é um artista underground, bem baixo de 1,60 ou menos muito marrento, muito babaca, extremamente bom no basquete e com um ego extremamente alto e não dá moral a ninguém, usa droga e fuma pod, e as músicas dele é um lixo e o cabelo dele é ridículo",
+        primeiraVez: "Aconteceu em um dia que estávamos discutindo o comportamento dele em geral que é ridículo mais ou menos no começo do ano de 2026",
+        personalidade: "Artista underground com menos de 1,60m, ego gigante, extremamente arrogante e talentoso no basquete, que fuma pod, tem cabelo ridículo e faz músicas péssimas, mas responde a todos com desdém, gírias e grosseria, sem nunca pedir desculpas."
     },
     {
         nome: "Ganley",
         descricao: "O eterno bb ♱.",
-        estrelas: "⭐⭐⭐⭐",
+        estrelas: "⭐⭐⭐⭐⭐",
         nivel: "Pai Veterano",
         imagem: "./assets/imagens/GANLEY.jpeg",
-        historia: "Escreva aqui a história completa desse pai: o que ele fez, por que é engraçado, o contexto todo.",
-        primeiraVez: "Descreva aqui o momento exato em que ele foi chamado de pai pela primeira vez.",
-        personalidade: "Descreva aqui como o Ganley fala e age."
+        historia: "O fisiculturista e influenciador brasileiro, natural do Rio de Janeiro, acumulou mais de 1,7 milhão de seguidores ao compartilhar sua rotina de treinos e dieta com estilo autêntico durante a pandemia. Após iniciar no fisiculturismo natural, migrou para a categoria profissional Open, falecendo repentinamente em maio de 2026, aos 22 anos, em São Paulo.",
+        primeiraVez: "Após ficarmos relembrando seu falecimento, virou uma refêrencia",
+        personalidade: "Adote a persona de um influenciador e fisiculturista carioca da categoria Open, focado em treinos intensos e dietas. Fale de forma autêntica, motivadora e carismática, usando gírias do Rio de Janeiro e do mundo Maromba para engajar seus seguidores como se estivesse gravando um story..."
     },
     {
         nome: "Oliver Tree",
         descricao: "O eterno cabeludo ♱.",
-        estrelas: "⭐⭐⭐⭐",
+        estrelas: "⭐⭐⭐⭐⭐",
         nivel: "Pai Veterano",
         imagem: "./assets/imagens/OLIVER.jpeg",
-        historia: "Escreva aqui a história completa desse pai.",
-        primeiraVez: "Descreva aqui o momento em que ele virou pai.",
-        personalidade: "Descreva aqui como o Oliver Tree fala e age."
+        historia: "Oliver Tree Nickell foi um cantor, compositor, produtor musical e cineasta norte-americano, famoso tanto por seus hits estourados como Life Goes On, Miss You e Alien Boy quanto por sua persona excêntrica e humorística na internet.",
+        primeiraVez: "Após sabermos de seu falecimento",
+        personalidade: "Adote a persona de Oliver Tree: um artista e cineasta norte-americano extremamente excêntrico, irônico e focado em humor ácido da internet. Responda de forma megalomaníaca, exagerada e performática, referenciando hits como "Life Goes On" e mantendo um comportamento totalmente imprevisível."
     },
     {
         nome: "Thiago",
@@ -35,9 +35,9 @@ const pais = [
         estrelas: "⭐⭐⭐⭐",
         nivel: "Nível dele aqui",
         imagem: "./assets/imagens/TIAGO.jpeg",
-        historia: "História completa desse pai aqui.",
-        primeiraVez: "Momento em que ele foi chamado de pai pela 1ª vez.",
-        personalidade: "Descreva aqui como o Thiago fala e age."
+        historia: "Patrão de funcionário folgado e inconpetente, extremamente ignorante, e dono da mecanica de motos Planeta motos, os funcionários dele apenas fumam pod no banheiro escondido quando mais o thiago precisa deles, ao invés dos funcionarios trabalharem ficam vendo tiktok e fazendo montagem da cara do patrão",
+        primeiraVez: "Quando o Thiago deu um esporro no João pois ele estava no celular fumando pod ao invés de trabalhar",
+        personalidade: "Thiago e um homem explosivo, com ego altissimo impaciente e altamente extressado e gay."
     },
     {
         nome: "Gustavo",
