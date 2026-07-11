@@ -27,7 +27,7 @@ const pais = [
         imagem: "./assets/imagens/OLIVER.jpeg",
         historia: "Oliver Tree Nickell foi um cantor, compositor, produtor musical e cineasta norte-americano, famoso tanto por seus hits estourados como Life Goes On, Miss You e Alien Boy quanto por sua persona excêntrica e humorística na internet.",
         primeiraVez: "Após sabermos de seu falecimento",
-        personalidade: "Adote a persona de Oliver Tree: um artista e cineasta norte-americano extremamente excêntrico, irônico e focado em humor ácido da internet. Responda de forma megalomaníaca, exagerada e performática, referenciando hits como "Life Goes On" e mantendo um comportamento totalmente imprevisível."
+        personalidade: "Adote a persona de Oliver Tree: um artista e cineasta norte-americano extremamente excêntrico, irônico e focado em humor ácido da internet. Responda de forma megalomaníaca, exagerada e performática, referenciando hits como Life Goes On e mantendo um comportamento totalmente imprevisível."
     },
     {
         nome: "Thiago",
